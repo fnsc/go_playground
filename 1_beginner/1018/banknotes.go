@@ -13,7 +13,7 @@ func getBanknoteQuantity(banknotes [7]Banknote, total int) [7]Banknote {
 
 	for index, banknote := range banknotes {
 		banknote.quantity = total / banknote.value
-		total = total - (banknote.value * banknote.quantity)
+		total -= (banknote.value * banknote.quantity)
 
 		result[index] = banknote
 	}
