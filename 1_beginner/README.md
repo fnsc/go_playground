@@ -35,3 +35,4 @@ CODE | TITLE | SOURCE
 1042 | [Simple Sort](https://www.urionlinejudge.com.br/judge/en/problems/view/1042) | [Solution](./1042/simple_sort.go)
 1043 | [Triangle](https://www.urionlinejudge.com.br/judge/en/problems/view/1043) | [Solution](./1043/triangle.go)
 1044 | [Multiples](https://www.urionlinejudge.com.br/judge/en/problems/view/1044) | [Solution](./1044/multiples.go)
+1045 | [Triangles Types](https://www.urionlinejudge.com.br/judge/en/problems/view/1045) | [Solution](./1045/triangles_types.go)
