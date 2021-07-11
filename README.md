@@ -4,4 +4,4 @@ This repo was created to document my progress while I'm learning [GoLang](https:
 
 ## Problems Categories
 
-- [Beginner](./1_beginner/README.md);
+- [1 Beginner](./1_beginner/README.md);

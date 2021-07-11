@@ -33,3 +33,4 @@ CODE | TITLE | SOURCE
 1040 | [Average 3](https://www.urionlinejudge.com.br/judge/en/problems/view/1040) | [Solution](./1040/average_3.go)
 1041 | [Coordinates of a Point](https://www.urionlinejudge.com.br/judge/en/problems/view/1041) | [Solution](./1041/coordinates_of_a_point.go)
 1042 | [Simple Sort](https://www.urionlinejudge.com.br/judge/en/problems/view/1042) | [Solution](./1042/simple_sort.go)
+1043 | [Triangle](https://www.urionlinejudge.com.br/judge/en/problems/view/1043) | [Solution](./1043/triangle.go)
