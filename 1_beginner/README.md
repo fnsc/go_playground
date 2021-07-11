@@ -1,4 +1,4 @@
-# [Beginner](https://www.urionlinejudge.com.br/judge/en/problems/index/1) Problems
+# [Beginner Problems](https://www.urionlinejudge.com.br/judge/en/problems/index/1)
 
 This table will help you find the problem description (at the TITLE column) and my solution (at the SOURCE column).
 
@@ -34,3 +34,4 @@ CODE | TITLE | SOURCE
 1041 | [Coordinates of a Point](https://www.urionlinejudge.com.br/judge/en/problems/view/1041) | [Solution](./1041/coordinates_of_a_point.go)
 1042 | [Simple Sort](https://www.urionlinejudge.com.br/judge/en/problems/view/1042) | [Solution](./1042/simple_sort.go)
 1043 | [Triangle](https://www.urionlinejudge.com.br/judge/en/problems/view/1043) | [Solution](./1043/triangle.go)
+1044 | [Multiples](https://www.urionlinejudge.com.br/judge/en/problems/view/1044) | [Solution](./1044/multiples.go)
