@@ -36,3 +36,4 @@ CODE | TITLE | SOURCE
 1043 | [Triangle](https://www.urionlinejudge.com.br/judge/en/problems/view/1043) | [Solution](./1043/triangle.go)
 1044 | [Multiples](https://www.urionlinejudge.com.br/judge/en/problems/view/1044) | [Solution](./1044/multiples.go)
 1045 | [Triangles Types](https://www.urionlinejudge.com.br/judge/en/problems/view/1045) | [Solution](./1045/triangles_types.go)
+1046 | [Game Duration](https://www.urionlinejudge.com.br/judge/en/problems/view/1046) | [Solution](./1046/game_time.go)
