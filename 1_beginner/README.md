@@ -39,3 +39,4 @@ CODE | TITLE | SOURCE
 1046 | [Game Duration](https://www.urionlinejudge.com.br/judge/en/problems/view/1046) | [Solution](./1046/game_time.go)
 1047 | [Game Duration with Minutes](https://www.urionlinejudge.com.br/judge/en/problems/view/1047) | [Solution](./1047/game_time_with_minutes.go)
 1048 | [Salary Increase](https://www.urionlinejudge.com.br/judge/en/problems/view/1048) | [Solution](./1048/salary_increase.go)
+1049 | [Animal](https://www.urionlinejudge.com.br/judge/en/problems/view/1049) | [Solution](./1049/animal.go)
