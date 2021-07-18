@@ -37,3 +37,5 @@ CODE | TITLE | SOURCE
 1044 | [Multiples](https://www.urionlinejudge.com.br/judge/en/problems/view/1044) | [Solution](./1044/multiples.go)
 1045 | [Triangles Types](https://www.urionlinejudge.com.br/judge/en/problems/view/1045) | [Solution](./1045/triangles_types.go)
 1046 | [Game Duration](https://www.urionlinejudge.com.br/judge/en/problems/view/1046) | [Solution](./1046/game_time.go)
+1047 | [Game Duration with Minutes](https://www.urionlinejudge.com.br/judge/en/problems/view/1047) | [Solution](./1047/game_time_with_minutes.go)
+1048 | [Salary Increase](https://www.urionlinejudge.com.br/judge/en/problems/view/1048) | [Solution](./1048/salary_increase.go)
