@@ -40,3 +40,4 @@ CODE | TITLE | SOURCE
 1047 | [Game Duration with Minutes](https://www.urionlinejudge.com.br/judge/en/problems/view/1047) | [Solution](./1047/game_time_with_minutes.go)
 1048 | [Salary Increase](https://www.urionlinejudge.com.br/judge/en/problems/view/1048) | [Solution](./1048/salary_increase.go)
 1049 | [Animal](https://www.urionlinejudge.com.br/judge/en/problems/view/1049) | [Solution](./1049/animal.go)
+1050 | [DDD](https://www.urionlinejudge.com.br/judge/en/problems/view/1050) | [Solution](./1050/ddd.go)
