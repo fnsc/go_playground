@@ -164,7 +164,7 @@ func searchClass(input string, table []Class, code int) Class {
 	return row
 }
 
-func searchAnimal(filo Filo, order Order, class Class, table []Animal) Animal {
+func searchAnimal(order Order, class Class, table []Animal) Animal {
 	var row Animal
 	for _, row := range table {
 		if !(class.code == row.belongsToClass && order.code == row.belongsToOrder) {
@@ -192,7 +192,7 @@ func main() {
 	filo := searchFilo(inputFilo, filos)
 	class := searchClass(inputClass, classes, filo.code)
 	order := searchOrder(inputOrder, orders)
-	animal := searchAnimal(filo, order, class, animals)
+	animal := searchAnimal(order, class, animals)
 
 	fmt.Println(animal.name)
 }
