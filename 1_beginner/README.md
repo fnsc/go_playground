@@ -41,3 +41,4 @@ CODE | TITLE | SOURCE
 1048 | [Salary Increase](https://www.urionlinejudge.com.br/judge/en/problems/view/1048) | [Solution](./1048/salary_increase.go)
 1049 | [Animal](https://www.urionlinejudge.com.br/judge/en/problems/view/1049) | [Solution](./1049/animal.go)
 1050 | [DDD](https://www.urionlinejudge.com.br/judge/en/problems/view/1050) | [Solution](./1050/ddd.go)
+1051 | [Taxes](https://www.urionlinejudge.com.br/judge/en/problems/view/1051) | [Solution](./1051/taxes.go)
