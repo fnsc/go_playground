@@ -42,3 +42,4 @@ CODE | TITLE | SOURCE
 1049 | [Animal](https://www.urionlinejudge.com.br/judge/en/problems/view/1049) | [Solution](./1049/animal.go)
 1050 | [DDD](https://www.urionlinejudge.com.br/judge/en/problems/view/1050) | [Solution](./1050/ddd.go)
 1051 | [Taxes](https://www.urionlinejudge.com.br/judge/en/problems/view/1051) | [Solution](./1051/taxes.go)
+1052 | [Month](https://www.urionlinejudge.com.br/judge/en/problems/view/1052) | [Solution](./1052/month.go)
