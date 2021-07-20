@@ -43,3 +43,4 @@ CODE | TITLE | SOURCE
 1050 | [DDD](https://www.urionlinejudge.com.br/judge/en/problems/view/1050) | [Solution](./1050/ddd.go)
 1051 | [Taxes](https://www.urionlinejudge.com.br/judge/en/problems/view/1051) | [Solution](./1051/taxes.go)
 1052 | [Month](https://www.urionlinejudge.com.br/judge/en/problems/view/1052) | [Solution](./1052/month.go)
+1059 | [Even Numbers](https://www.urionlinejudge.com.br/judge/en/problems/view/1059) | [Solution](./1059/even_numbers.go)
