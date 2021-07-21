@@ -45,3 +45,4 @@ CODE | TITLE | SOURCE
 1052 | [Month](https://www.urionlinejudge.com.br/judge/en/problems/view/1052) | [Solution](./1052/month.go)
 1059 | [Even Numbers](https://www.urionlinejudge.com.br/judge/en/problems/view/1059) | [Solution](./1059/even_numbers.go)
 1060 | [Positive Numbers](https://www.urionlinejudge.com.br/judge/en/problems/view/1060) | [Solution](./1060/positive_numbers.go)
+1061 | [Event Time](https://www.urionlinejudge.com.br/judge/en/problems/view/1061) | [Solution](./1061/event_time.go)
