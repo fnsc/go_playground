@@ -48,3 +48,4 @@ CODE | TITLE | SOURCE
 1061 | [Event Time](https://www.urionlinejudge.com.br/judge/en/problems/view/1061) | [Solution](./1061/event_time.go)
 1064 | [Positives and Averages](https://www.urionlinejudge.com.br/judge/en/problems/view/1064) | [Solution](./1064/positives_and_averages.go)
 1065 | [Even Between Five Numbers](https://www.urionlinejudge.com.br/judge/en/problems/view/1065) | [Solution](./1065/even_between_five_numbers.go)
+1066 | [Even, Odd, Positive and Negative](https://www.urionlinejudge.com.br/judge/en/problems/view/1066) | [Solution](./1066/even_odd_ositive_and_negative.go)
