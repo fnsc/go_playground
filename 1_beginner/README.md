@@ -47,3 +47,4 @@ CODE | TITLE | SOURCE
 1060 | [Positive Numbers](https://www.urionlinejudge.com.br/judge/en/problems/view/1060) | [Solution](./1060/positive_numbers.go)
 1061 | [Event Time](https://www.urionlinejudge.com.br/judge/en/problems/view/1061) | [Solution](./1061/event_time.go)
 1064 | [Positives and Averages](https://www.urionlinejudge.com.br/judge/en/problems/view/1064) | [Solution](./1064/positives_and_averages.go)
+1065 | [Even Between Five Numbers](https://www.urionlinejudge.com.br/judge/en/problems/view/1065) | [Solution](./1065/even_between_five_numbers.go)
