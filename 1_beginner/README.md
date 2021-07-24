@@ -54,3 +54,4 @@ CODE | TITLE | SOURCE
 1071 | [Sum of Consecutive Odd Numbers I](https://www.urionlinejudge.com.br/judge/en/problems/view/1071) | [Solution](./1071/sum_of_consecutive_odd_numbers_1.go)
 1072 | [Interval 2](https://www.urionlinejudge.com.br/judge/en/problems/view/1072) | [Solution](./1072/interval_ii.go)
 1073 | [Even Square](https://www.urionlinejudge.com.br/judge/en/problems/view/1073) | [Solution](./1073/even_square.go)
+1074 | [Even or Square](https://www.urionlinejudge.com.br/judge/en/problems/view/1074) | [Solution](./1074/even_or_odd.go)
