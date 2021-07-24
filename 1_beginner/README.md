@@ -59,3 +59,4 @@ CODE | TITLE | SOURCE
 1078 | [Muiltiplication Table](https://www.urionlinejudge.com.br/judge/en/problems/view/1078) | [Solution](./1078/multiplication_table.go)
 1079 | [Weighted Averages](https://www.urionlinejudge.com.br/judge/en/problems/view/1079) | [Solution](./1079/weighted_averages.go)
 1080 | [Highest and Position](https://www.urionlinejudge.com.br/judge/en/problems/view/1080) | [Solution](./1080/highest_and_position.go)
+1094 | [Experiments](https://www.urionlinejudge.com.br/judge/en/problems/view/1094) | [Solution](./1094/experiments.go)
