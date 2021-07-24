@@ -31,9 +31,9 @@ func main() {
 		frog.quantity += quantity
 	}
 
-	rabit.percentage = calculatePercentage(rabit, total)
-	rat.percentage = calculatePercentage(rat, total)
-	frog.percentage = calculatePercentage(frog, total)
+	calculatePercentage(&rabit, total)
+	calculatePercentage(&rat, total)
+	calculatePercentage(&frog, total)
 
 	printResult(total, rabit, rat, frog)
 }
@@ -43,10 +43,8 @@ type Animal struct {
 	percentage float64
 }
 
-func calculatePercentage(animal Animal, total int) float64 {
+func calculatePercentage(animal *Animal, total int) {
 	animal.percentage = float64(animal.quantity) * 100 / float64(total)
-
-	return animal.percentage
 }
 
 func printResult(total int, rabit, rat, frog Animal) {
