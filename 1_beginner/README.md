@@ -52,3 +52,4 @@ CODE | TITLE | SOURCE
 1067 | [Odd Numbers](https://www.urionlinejudge.com.br/judge/en/problems/view/1067) | [Solution](./1067/odd_numbers.go)
 1070 | [Six Odd Numbers](https://www.urionlinejudge.com.br/judge/en/problems/view/1070) | [Solution](./1070/six_odd_numbers.go)
 1071 | [Sum of Consecutive Odd Numbers I](https://www.urionlinejudge.com.br/judge/en/problems/view/1071) | [Solution](./1071/sum_of_consecutive_odd_numbers_1.go)
+1072 | [Interval 2](https://www.urionlinejudge.com.br/judge/en/problems/view/1072) | [Solution](./1072/interval_ii.go)
