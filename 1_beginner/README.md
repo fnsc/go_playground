@@ -55,3 +55,4 @@ CODE | TITLE | SOURCE
 1072 | [Interval 2](https://www.urionlinejudge.com.br/judge/en/problems/view/1072) | [Solution](./1072/interval_ii.go)
 1073 | [Even Square](https://www.urionlinejudge.com.br/judge/en/problems/view/1073) | [Solution](./1073/even_square.go)
 1074 | [Even or Square](https://www.urionlinejudge.com.br/judge/en/problems/view/1074) | [Solution](./1074/even_or_odd.go)
+1075 | [Remaining 2](https://www.urionlinejudge.com.br/judge/en/problems/view/1075) | [Solution](./1075/remaining_2.go)
