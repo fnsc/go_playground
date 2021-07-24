@@ -57,3 +57,4 @@ CODE | TITLE | SOURCE
 1074 | [Even or Square](https://www.urionlinejudge.com.br/judge/en/problems/view/1074) | [Solution](./1074/even_or_odd.go)
 1075 | [Remaining 2](https://www.urionlinejudge.com.br/judge/en/problems/view/1075) | [Solution](./1075/remaining_2.go)
 1078 | [Muiltiplication Table](https://www.urionlinejudge.com.br/judge/en/problems/view/1078) | [Solution](./1078/multiplication_table.go)
+1079 | [Weighted Averages](https://www.urionlinejudge.com.br/judge/en/problems/view/1079) | [Solution](./1079/weighted_averages.go)
