@@ -61,3 +61,5 @@ CODE | TITLE | SOURCE
 1080 | [Highest and Position](https://www.urionlinejudge.com.br/judge/en/problems/view/1080) | [Solution](./1080/highest_and_position.go)
 1094 | [Experiments](https://www.urionlinejudge.com.br/judge/en/problems/view/1094) | [Solution](./1094/experiments.go)
 1095 | [Sequence IJ I](https://www.urionlinejudge.com.br/judge/en/problems/view/1095) | [Solution](./1095/main.go)
+1096 | [Sequence IJ II](https://www.urionlinejudge.com.br/judge/en/problems/view/1096) | [Solution](./1096/main.go)
+1097 | [Sequence IJ III](https://www.urionlinejudge.com.br/judge/en/problems/view/1097) | [Solution](./1097/main.go)
