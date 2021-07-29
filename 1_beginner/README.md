@@ -67,3 +67,4 @@ CODE | TITLE | SOURCE
 1099 | [Sum of Consecutive Odd Numbers II](https://www.urionlinejudge.com.br/judge/en/problems/view/1099) | [Solution](./1099/main.go)
 1101 | [Sequence of Numbers and Sum](https://www.urionlinejudge.com.br/judge/en/problems/view/1101) | [Solution](./1101/main.go)
 1113 | [Ascending and Descending](https://www.urionlinejudge.com.br/judge/en/problems/view/1113) | [Solution](./1113/main.go)
+1114 | [Fixed Password](https://www.urionlinejudge.com.br/judge/en/problems/view/1114) | [Solution](./1114/main.go)
