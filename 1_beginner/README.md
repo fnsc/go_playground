@@ -66,3 +66,4 @@ CODE | TITLE | SOURCE
 1098 | [Sequence IJ IV](https://www.urionlinejudge.com.br/judge/en/problems/view/1098) | [Solution](./1098/main.go)
 1099 | [Sum of Consecutive Odd Numbers II](https://www.urionlinejudge.com.br/judge/en/problems/view/1099) | [Solution](./1099/main.go)
 1101 | [Sequence of Numbers and Sum](https://www.urionlinejudge.com.br/judge/en/problems/view/1101) | [Solution](./1101/main.go)
+1113 | [Ascending and Descending](https://www.urionlinejudge.com.br/judge/en/problems/view/1113) | [Solution](./1113/main.go)
