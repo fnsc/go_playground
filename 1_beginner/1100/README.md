@@ -11,3 +11,4 @@ CODE | TITLE | SOURCE
 1116 | [Dividing X by Y](https://www.urionlinejudge.com.br/judge/en/problems/view/1116) | [Solution](./1100/1116/main.go)
 1117 | [Score Validation](https://www.urionlinejudge.com.br/judge/en/problems/view/1117) | [Solution](./1100/1117/main.go)
 1118 | [Several Scores with Validation](https://www.urionlinejudge.com.br/judge/en/problems/view/1118) | [Solution](./1100/1118/main.go)
+1131 | [Grenais](https://www.urionlinejudge.com.br/judge/en/problems/view/1131) | [Solution](./1100/1131/main.go)
