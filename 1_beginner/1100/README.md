@@ -13,3 +13,5 @@ CODE | TITLE | SOURCE
 1118 | [Several Scores with Validation](https://www.urionlinejudge.com.br/judge/en/problems/view/1118) | [Solution](./1118/main.go)
 1131 | [Grenais](https://www.urionlinejudge.com.br/judge/en/problems/view/1131) | [Solution](./1131/main.go)
 1132 | [Multiples of 13](https://www.urionlinejudge.com.br/judge/en/problems/view/1132) | [Solution](./1132/main.go)
+1133 | [Rest of a Division](https://www.urionlinejudge.com.br/judge/en/problems/view/1133) | [Solution](./1133/main.go)
+1134 | [Type of Fuel](https://www.urionlinejudge.com.br/judge/en/problems/view/1134) | [Solution](./1134/main.go)
