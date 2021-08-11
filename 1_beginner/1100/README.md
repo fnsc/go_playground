@@ -15,3 +15,4 @@ CODE | TITLE | SOURCE
 1132 | [Multiples of 13](https://www.urionlinejudge.com.br/judge/en/problems/view/1132) | [Solution](./1132/main.go)
 1133 | [Rest of a Division](https://www.urionlinejudge.com.br/judge/en/problems/view/1133) | [Solution](./1133/main.go)
 1134 | [Type of Fuel](https://www.urionlinejudge.com.br/judge/en/problems/view/1134) | [Solution](./1134/main.go)
+1142 | [PUM](https://www.urionlinejudge.com.br/judge/en/problems/view/1142) | [Solution](./1142/main.go)
