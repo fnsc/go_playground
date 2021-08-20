@@ -17,3 +17,4 @@ CODE | TITLE | SOURCE
 1134 | [Type of Fuel](https://www.urionlinejudge.com.br/judge/en/problems/view/1134) | [Solution](./1134/main.go)
 1142 | [PUM](https://www.urionlinejudge.com.br/judge/en/problems/view/1142) | [Solution](./1142/main.go)
 1143 | [Square and Cubic](https://www.urionlinejudge.com.br/judge/en/problems/view/1143) | [Solution](./1143/main.go)
+1144 | [Logical Sequence](https://www.urionlinejudge.com.br/judge/en/problems/view/1144) | [Solution](./1144/main.go)
