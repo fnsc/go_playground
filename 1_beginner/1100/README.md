@@ -19,3 +19,4 @@ CODE | TITLE | SOURCE
 1143 | [Square and Cubic](https://www.urionlinejudge.com.br/judge/en/problems/view/1143) | [Solution](./1143/main.go)
 1144 | [Logical Sequence](https://www.urionlinejudge.com.br/judge/en/problems/view/1144) | [Solution](./1144/main.go)
 1145 | [Logical Sequence 2](https://www.urionlinejudge.com.br/judge/en/problems/view/1145) | [Solution](./1145/main.go)
+1146 | [Growing Sequences](https://www.urionlinejudge.com.br/judge/en/problems/view/1146) | [Solution](./1146/main.go)
