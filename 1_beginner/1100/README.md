@@ -21,3 +21,4 @@ CODE | TITLE | SOURCE
 1145 | [Logical Sequence 2](https://www.beecrowd.com.br/judge/en/problems/view/1145) | [Solution](./1145/main.go)
 1146 | [Growing Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1146) | [Solution](./1146/main.go)
 1149 | [Summing Consecutive Integers](https://www.beecrowd.com.br/judge/en/problems/view/1149) | [Solution](./1149/main.go)
+1149 | [Exceeding Z](https://www.beecrowd.com.br/judge/en/problems/view/1150) | [Solution](./1150/main.go)
