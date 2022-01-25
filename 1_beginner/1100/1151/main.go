@@ -18,7 +18,7 @@ func main() {
 func read(input *int) {
 	fmt.Scanf("%d", input)
 
-	if *input <= 0 && *input >= 46 {
+	if *input <= 0 || *input >= 46 {
 		read(input)
 	}
 }

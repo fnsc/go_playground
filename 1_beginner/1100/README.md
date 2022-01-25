@@ -21,5 +21,6 @@ CODE | TITLE | SOURCE
 1145 | [Logical Sequence 2](https://www.beecrowd.com.br/judge/en/problems/view/1145) | [Solution](./1145/main.go)
 1146 | [Growing Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1146) | [Solution](./1146/main.go)
 1149 | [Summing Consecutive Integers](https://www.beecrowd.com.br/judge/en/problems/view/1149) | [Solution](./1149/main.go)
-1149 | [Exceeding Z](https://www.beecrowd.com.br/judge/en/problems/view/1150) | [Solution](./1150/main.go)
-1149 | [Easy Fibonacci](https://www.beecrowd.com.br/judge/en/problems/view/1151) | [Solution](./1151/main.go)
+1150 | [Exceeding Z](https://www.beecrowd.com.br/judge/en/problems/view/1150) | [Solution](./1150/main.go)
+1151 | [Easy Fibonacci](https://www.beecrowd.com.br/judge/en/problems/view/1151) | [Solution](./1151/main.go)
+1153 | [Simple Factorial](https://www.beecrowd.com.br/judge/en/problems/view/1153) | [Solution](./1153/main.go)
