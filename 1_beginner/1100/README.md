@@ -26,3 +26,4 @@ CODE | TITLE | SOURCE
 1153 | [Simple Factorial](https://www.beecrowd.com.br/judge/en/problems/view/1153) | [Solution](./1153/main.go)
 1154 | [Ages](https://www.beecrowd.com.br/judge/en/problems/view/1154) | [Solution](./1154/main.go)
 1155 | [S Sequence](https://www.beecrowd.com.br/judge/en/problems/view/1155) | [Solution](./1155/main.go)
+1156 | [S Sequence II](https://www.beecrowd.com.br/judge/en/problems/view/1156) | [Solution](./1156/main.go)
