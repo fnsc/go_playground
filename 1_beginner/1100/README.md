@@ -24,3 +24,4 @@ CODE | TITLE | SOURCE
 1150 | [Exceeding Z](https://www.beecrowd.com.br/judge/en/problems/view/1150) | [Solution](./1150/main.go)
 1151 | [Easy Fibonacci](https://www.beecrowd.com.br/judge/en/problems/view/1151) | [Solution](./1151/main.go)
 1153 | [Simple Factorial](https://www.beecrowd.com.br/judge/en/problems/view/1153) | [Solution](./1153/main.go)
+1154 | [Ages](https://www.beecrowd.com.br/judge/en/problems/view/1154) | [Solution](./1154/main.go)
