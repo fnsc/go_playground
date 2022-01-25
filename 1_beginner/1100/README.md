@@ -28,3 +28,4 @@ CODE | TITLE | SOURCE
 1155 | [S Sequence](https://www.beecrowd.com.br/judge/en/problems/view/1155) | [Solution](./1155/main.go)
 1156 | [S Sequence II](https://www.beecrowd.com.br/judge/en/problems/view/1156) | [Solution](./1156/main.go)
 1157 | [Divisors I](https://www.beecrowd.com.br/judge/en/problems/view/1157) | [Solution](./1157/main.go)
+1158 | [Divisors I](https://www.beecrowd.com.br/judge/en/problems/view/1158) | [Solution](./1158/main.go)
