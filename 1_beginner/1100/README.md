@@ -32,3 +32,4 @@ CODE | TITLE | SOURCE
 1159 | [Sum of Consecutive Even Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1159) | [Solution](./1159/main.go)
 1160 | [Population Increase](https://www.beecrowd.com.br/judge/en/problems/view/1160) | [Solution](./1160/main.go)
 1164 | [Perfect Number](https://www.beecrowd.com.br/judge/en/problems/view/1164) | [Solution](./1164/main.go)
+1165 | [Prime Number](https://www.beecrowd.com.br/judge/en/problems/view/1165) | [Solution](./1165/main.go)
