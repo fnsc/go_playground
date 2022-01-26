@@ -30,3 +30,4 @@ CODE | TITLE | SOURCE
 1157 | [Divisors I](https://www.beecrowd.com.br/judge/en/problems/view/1157) | [Solution](./1157/main.go)
 1158 | [Sum of Consecutive Odd Numbers III](https://www.beecrowd.com.br/judge/en/problems/view/1158) | [Solution](./1158/main.go)
 1159 | [Sum of Consecutive Even Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1159) | [Solution](./1159/main.go)
+1160 | [Population Increase](https://www.beecrowd.com.br/judge/en/problems/view/1160) | [Solution](./1160/main.go)
