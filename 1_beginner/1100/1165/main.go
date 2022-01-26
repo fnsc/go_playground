@@ -39,6 +39,11 @@ func isPrimeNumber(number *int) bool {
 		}
 
 		divisors = append(divisors, i)
+
+		if len(divisors) > 2 {
+			return false
+		}
+
 		i += 2
 	}
 
