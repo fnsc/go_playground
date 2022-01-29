@@ -8,13 +8,13 @@ func main() {
 	for i := 0; i < 10; i++ {
 		fmt.Scanf("%d", &input[i])
 
-		isGreaterThanZero(&input[i])
+		isLowerThanOne(&input[i])
 	}
 
 	printResult(&input)
 }
 
-func isGreaterThanZero(input *int) {
+func isLowerThanOne(input *int) {
 	if *input <= 0 {
 		*input = 1
 	}
